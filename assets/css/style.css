@@ -1,0 +1,95 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.fondo_verde {
+  background-color: #28a745;
+}
+#logo_blanco {
+  height: 25px;
+  width: 86px;
+}
+.img_card {
+  width: 100%;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-title {
+  color: black;
+  font-weight: 300;
+  font-size: 1.5rem;
+}
+.card-text {
+  color: #707070;
+  font-weight: 300;
+  font-size: 19px;
+  margin: 0;
+  padding-top: 2rem;
+}
+.dirección {
+  color: #707070;
+  font-weight: 300;
+  font-size: 15px;
+}
+.precio {
+  color: #707070;
+  font-weight: 300;
+  float: right;
+  padding-top: 0.6rem;
+}
+.precio_oferta {
+  color: #28a745;
+  font-weight: 500;
+  float: right;
+  padding-left: 1rem;
+  font-size: 1.5rem;
+}
+footer {
+  overflow: hidden;
+}
+.bg_form {
+  background-color: #28a745;
+  background-size: cover;
+  height: 241px;
+  width: 100%;
+  overflow: hidden;
+}
+.bg_form h5 {
+  color: white;
+  text-align: center;
+  padding-top: 25px;
+}
+.botón {
+  display: flex;
+  justify-content: center;
+}
+
+.bg_footer {
+  height: 118px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+.container_img_footer {
+  margin: 0 auto;
+  justify-content: center;
+  overflow: hidden;
+}
+.img_footer {
+  height: 25px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.img_logo_n {
+  height: 24px;
+  width: 82px;
+  align-items: center;
+}
+div.container_img_footer > p {
+  font-weight: lighter;
+  color: #707070;
+  text-align: center;
+}
